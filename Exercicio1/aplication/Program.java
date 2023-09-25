@@ -1,9 +1,9 @@
-package aplication;
+package Exercicio1.aplication;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import entities.Triangle;
+import Exercicio1.entities.Triangle;
 
 public class Program {
   public static void main(String[] args) {

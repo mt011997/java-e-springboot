@@ -1,4 +1,4 @@
-package entities;  //Pacote da classe
+package Exercicio1.entities;  //Pacote da classe
 
 public class Triangle { // Nome da classe
 
