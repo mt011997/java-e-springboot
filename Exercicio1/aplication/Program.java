@@ -1,5 +1,6 @@
 package Exercicio1.aplication;
 
+
 import java.util.Locale;
 import java.util.Scanner;
 
