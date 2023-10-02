@@ -1,6 +1,5 @@
 package Exercicio1.aplication;
 
-
 import java.util.Locale;
 import java.util.Scanner;
 
@@ -30,9 +29,9 @@ public class Program {
     System.out.printf("Triangle X area: %.4f%n", areaX);
     System.out.printf("Triangle y area: %.4f%n", areaY);
 
-    if(areaX > areaY){
+    if (areaX > areaY) {
       System.out.println("Larger area: X");
-    }else{
+    } else {
       System.out.println("Larger area: Y");
     }
 
